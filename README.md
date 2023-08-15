@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250520.svg)](https://doi.org/10.5281/zenodo.8250520)
+
 # Data from: "Multiscale Variability in Nutrients and Secondary Metabolites in a Bat-Dispersed Neotropical Fruit"
 
 Data from: "Multiscale Variability in Nutrients and Secondary Metabolites in a Bat-Dispersed Neotropical Fruit" by Gelambi, M. & Whitehead, S. R. Published in ___Ecology and Evolution___, 2023.
